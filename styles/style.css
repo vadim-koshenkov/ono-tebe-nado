@@ -87,7 +87,6 @@
 
 .aligned-text-center {
   text-align: center;
-  padding-right: 60px; /* выравниваем элемент по PP, т.к стандартный text-align: center помещает элемент по центру, а по макету он расположен ближе к левому краю */
 }
 
 .aligned-text-right {
